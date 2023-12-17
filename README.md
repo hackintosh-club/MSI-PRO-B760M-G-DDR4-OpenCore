@@ -4,13 +4,13 @@
 
 ### [简体中文](README.zh_CN.md)
 
-[OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
-- Ventura
 - Monterey
+- Ventura
 - Sonoma
 
 

@@ -206,7 +206,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.7</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -693,13 +693,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K044130J9K3F7FB</string>
+                <string>F5K346701GUK3F7UE</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>3841</integer>
                 <key>ROM</key>
-                <data>51giHW3W</data>
+                <data>JkPZ+z7/</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -707,9 +707,9 @@
                 <key>SystemProductName</key>
                 <string>MacPro7,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KDM0FMP7QM</string>
+                <string>F5KLP0NGP7QM</string>
                 <key>SystemUUID</key>
-                <string>CE1D3EAB-CE4D-4A86-B3FA-BA2D99C3AB9D</string>
+                <string>93524D72-94F2-4651-AAD8-CCCFE983F47A</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
