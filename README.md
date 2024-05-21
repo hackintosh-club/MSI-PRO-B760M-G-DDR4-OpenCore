@@ -4,7 +4,7 @@
 
 ### [简体中文](README.zh_CN.md)
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -50,7 +50,7 @@ Search
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
  - To use a CPU without Efficient-core, the Kernel - ProvideCurrentCpuinfo option in the configuration file must be unchecked
 
 
